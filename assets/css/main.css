@@ -466,7 +466,6 @@ input, select, textarea {
 
 		.row > .col-12 {
 			width: 100%;
-			margin-top: 10px;
 		}
 
 		.row > .off-12 {
@@ -1199,7 +1198,8 @@ input, select, textarea {
 				}
 
 				.row > .col-12-medium {
-					width: 100%;
+					width: 100%;					
+					margin-top: 10px;
 				}
 
 				.row > .off-12-medium {
