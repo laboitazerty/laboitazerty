@@ -2363,13 +2363,16 @@ input, select, textarea {
 		}
 
 /* Image */
+	.text-container {
+	    flex: 1; /* Takes up 50% of the container width */
+	    text-align: center; /* Center-align the text */
+	}
 
 	.image {
 		border-radius: 8px;
 		border: 0;
 		display: inline-block;
 		position: relative;
-		align-items: center;
 	}
 
 		.image img {
