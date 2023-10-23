@@ -2364,7 +2364,6 @@ input, select, textarea {
 
 /* Image */
 	.aligned-content {
-	    display: flex;
 	    align-items: center; /* Center vertically */
 	}
 
