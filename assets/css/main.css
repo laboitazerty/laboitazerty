@@ -2363,9 +2363,9 @@ input, select, textarea {
 		}
 
 /* Image */
-	.text-container {
-	    flex: 1; /* Takes up 50% of the container width */
-	    text-align: center; /* Center-align the text */
+	.aligned-content {
+	    display: flex;
+	    align-items: center; /* Center vertically */
 	}
 
 	.image {
